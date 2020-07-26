@@ -1,5 +1,5 @@
 import random
-wordlist = ["fly","rhythm","gamer","pogchamp","squanch","kek","simp","poop","sexy","nipples","pewdiepie","anime","daboobymaster","Supercalifragilisticexpialidocious","pneumonoultramicroscopicsilicovolcanoconiosis","mitochondria","headshot","boop","chicken","buttcrack","rectum","spicy","dank","trippy","gucci","hypebeast","mudkip","teemo","thequickbrownfoxjumpedoverthelazydog"]
+wordlist = ["fly","rhythm","penguin","linux","repository","Supercalifragilisticexpialidocious","pneumonoultramicroscopicsilicovolcanoconiosis","mitochondria","chicken"]
 newword = random.choice(wordlist)
 strike = 0
 a= []
