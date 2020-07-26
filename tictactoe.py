@@ -17,6 +17,7 @@ def gameover():
     print("Game Over")
 
 def clear():
+    #only works on linux systems
     _ = system('clear')
 
 def filled()::w
